@@ -1,0 +1,6 @@
+{
+  "name": "Garde Animaux Paris",
+  "description": "Service indépendant de garde d'animaux à Paris assurant visites à domicile, repas et soins quotidiens pour chats et chiens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
